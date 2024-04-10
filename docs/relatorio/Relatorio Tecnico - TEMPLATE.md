@@ -1,7 +1,9 @@
 # Informações do Projeto
 `SANTÉ`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Conecte-se com à sua saúde,
+conecte-se ao futuro,
+conecte-se conosco.
 
 `ENGENHARIA DE SOFTWARE` 
 
