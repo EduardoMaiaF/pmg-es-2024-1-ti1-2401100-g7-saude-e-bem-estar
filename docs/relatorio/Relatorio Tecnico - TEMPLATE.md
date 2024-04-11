@@ -64,7 +64,10 @@ Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Desenvolver um software acessível e intuitivo que permita facilidade às pessoas monitorarem sua saúde e bem estar de forma autônoma. 
+
+Integrar funcionalidades que proporcionem o agendamento de consultas médicas presenciais e online, garantindo acesso apesar das barreiras.
+Integrar recursos de acompanhamento de saúde e lembretes para ajudar os usuários a monitorarem sua saúde e manterem suas consultas médicas em dia.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
