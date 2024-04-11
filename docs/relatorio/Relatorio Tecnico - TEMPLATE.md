@@ -64,7 +64,7 @@ Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar
 
 ## Objetivos
 
-Desenvolver um software acessível e intuitivo que permita facilidade às pessoas monitorarem sua saúde e bem estar de forma autônoma. 
+Desenvolver um software acessível e intuitivo que permita às pessoas com diversas ferramentas acessarem serviços de saúde de qualidade e monitorarem sua saúde e bem estar de forma autônoma.
 
 Integrar funcionalidades que proporcionem o agendamento de consultas médicas presenciais e online, garantindo acesso apesar das barreiras.
 Integrar recursos de acompanhamento de saúde e lembretes para ajudar os usuários a monitorarem sua saúde e manterem suas consultas médicas em dia.
