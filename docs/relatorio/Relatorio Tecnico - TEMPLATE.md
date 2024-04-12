@@ -96,7 +96,35 @@ Integrar recursos de acompanhamento de saúde e lembretes para ajudar os usuári
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Usuário Autônomo:
+Conhecimentos Prévios: Possui conhecimentos básicos de tecnologia e é capaz de usar dispositivos como smartphones, tablets ou computadores.
+Relação com a Tecnologia: Utiliza aplicativos e serviços online para várias finalidades, como comunicação, compras e entretenimento.
+Necessidades: Deseja monitorar sua saúde de forma independente, agendar consultas médicas e receber lembretes.
+Exemplo: Uma pessoa idosa que deseja acompanhar sua pressão arterial e agendar consultas com seu médico regularmente. 
+
+Usuário com Barreiras de Acesso:
+Conhecimentos Prévios: Pode ter conhecimentos limitados de tecnologia.
+Relação com a Tecnologia: Pode não estar familiarizado com aplicativos de saúde.
+Necessidades: Precisa de uma solução que facilite o agendamento de consultas e forneça informações claras sobre sua saúde.
+Exemplo: Um morador de uma área rural com acesso limitado a serviços médicos presenciais.
+
+Usuário com Mobilidade Reduzida:
+Conhecimentos Prévios: Varia, mas pode ter experiência limitada com tecnologia.
+Relação com a Tecnologia: Pode depender de dispositivos de assistência, como tablets com interfaces simplificadas.
+Necessidades: Requer recursos de agendamento de consultas online e lembretes acessíveis.
+Exemplo: Uma pessoa com deficiência física que usa um dispositivo de comunicação assistiva.
+
+Profissionais de Saúde:
+Conhecimentos Prévios: Possui conhecimentos avançados em saúde e tecnologia.
+Relação com a Tecnologia: Utiliza sistemas de registro eletrônico de saúde e ferramentas de telemedicina.
+Necessidades: Acesso a informações detalhadas dos pacientes, agendamento de consultas e comunicação eficiente.
+Exemplo: Médicos, enfermeiros e outros profissionais de saúde.
+
+Administradores de Clínicas e Hospitais:
+Conhecimentos Prévios: Conhecimentos em gestão de saúde e administração.
+Relação com a Tecnologia: Utiliza sistemas de gerenciamento de clínicas e recursos humanos.
+Necessidades: Ferramentas para agendar consultas, gerenciar recursos e monitorar o fluxo de pacientes.
+Exemplo: Gerentes de clínicas, administradores hospitalares.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
