@@ -1,11 +1,13 @@
 # Informações do Projeto
 `SANTÉ`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Conecte-se à sua saúde, 
+conecte-se ao futuro,
+conecte-se conosco.
 
 `ENGENHARIA DE SOFTWARE` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A Engenharia de Software é uma tecnologia que, se usada de forma correta, é capaz de ajudar em diversas aréas da sociedade, como acessar serviços de saúde de qualidade, melhorando assim a eficiência dos processos médicos e aumentando a acessibilidade para pacientes em locais remotos ou com mobilidade reduzida.
 
 ## Participantes
 
@@ -80,7 +82,11 @@ Integrar recursos de acompanhamento de saúde e lembretes para ajudar os usuári
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O desenvolvimento de um software que aborde a saúde e o bem-estar de forma acessível e intuitiva é uma iniciativa crucial.  Muitas vezes, a falta de lembretes ou a dificuldade em agendar consultas presenciais ou online pode levar à negligência da saúde. Ser capaz de monitorar a sua saúde e a da sua família é essencial, além de ter um suporte para se organizar é uma redução de estresse e um aumento da qualidade de vida.
+
+Encorajar autocuidado para que seja uma prática regular em um ambiente livre de preconceitos.
+Combater os estigmas relacionados à saúde mental e física que impedem as pessoas de procurar ajuda.
+
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
